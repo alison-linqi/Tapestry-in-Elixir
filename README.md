@@ -1,7 +1,3 @@
-Project 3
-Team members: 
-Jingfan Wang UFID: 5191-0196
-Lin Qi UFID: 7064-7133
 What is working: 
 We use Genserver as the actor model in our network. 
 First, we input the number of nodes that is included in the network and the number of requests each node needs to make.
